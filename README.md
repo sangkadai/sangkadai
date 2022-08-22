@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Pca-Jorizon-Hakai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sangkadai/Pca-Jorizon-Hakai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[
+ "Nguyễn Thanh Sang"
+ "Bypass Được Viết Bởi Nguyễn Thanh Sang"
+ "Cấm Leak Bypass Nếu Phát Hiện Sẽ Band Khỏi G-Ban"
+ "Nguyễn Thanh Sang Cuti"
+ "Sang Dzai"
+ ]
